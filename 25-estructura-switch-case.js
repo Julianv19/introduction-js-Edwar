@@ -20,5 +20,10 @@ switch (paymentMethod) {
         break;
     
     default:
+        console.log('Metodo de pago no valido')
         break;
+}
+for (let i = 0; i < ; i++) {
+       
+         
 }
